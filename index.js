@@ -1,3 +1,4 @@
+String yourConsumerSecret="8DD0E9565C9217974EC8FEC57423832AD2434501CB2E515511179B6669B7230A";
 var express  = require('express'),
   bodyParser = require('body-parser'),
   path       = require('path'),
